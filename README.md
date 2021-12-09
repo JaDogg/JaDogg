@@ -6,5 +6,5 @@ I am both a professional Software Engineer (M.Sc.) and a self taught programmer.
 
 ##### Some projects
 
-* `[2007]` `ro#` - an interpreter https://sourceforge.net/projects/rosharp/files/
+* `[2007]` `ro#` - an interpreter for a custom programming language https://sourceforge.net/projects/rosharp/files/
 * `[2008]` `jumb` - a compiler and a runtime for a low level programming language. (It compiles to x86 and assembles with Flat assembler)
