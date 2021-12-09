@@ -4,7 +4,7 @@ I am both a professional Software Engineer (M.Sc.) and a self taught programmer.
 
 ---
 
-##### Projects
+##### Open Source Projects
 * `[2007]` `ro#` - an interpreter for a custom programming language https://sourceforge.net/projects/rosharp/files/
 * `[2008]` `process-master` - see running processes, read memory of a process - written in Microsoft Macro Assembler 32.
 * `[2010]` `jumb` - a compiler and a runtime for a custom programming language. (It compiles to x86 and assembles with Flat assembler) https://sourceforge.net/projects/jumb/
