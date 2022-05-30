@@ -4,7 +4,7 @@ I am both a professional Software Engineer (M.Sc.) and a self taught programmer.
 
 ---
 
-##### Open Source Projects
+##### Projects (Mostly Open Source)
 * `[2007]` `ro#` - an interpreter for a custom programming language https://sourceforge.net/projects/rosharp/files/
 * `[2008]` `process-master` - see running processes, read memory of a process - written in Microsoft Macro Assembler 32.
 * `[2010]` `jumb` - a compiler and a runtime for a custom programming language. (It compiles to x86 and assembles with Flat assembler) https://sourceforge.net/projects/jumb/
@@ -23,5 +23,5 @@ I am both a professional Software Engineer (M.Sc.) and a self taught programmer.
 * `[2018]` `confprops`, `propers` - properties file support for python https://github.com/JaDogg/confprops https://github.com/JaDogg/propers
 * `[2019]` `pydoro` - terminal pomodoro timer - https://github.com/JaDogg/pydoro
 * `[2020]` `sbx` - flash cards in terminal - https://github.com/JaDogg/sbx
-* `[2020]` `Yaksha` - Programming language with Python like syntax that compiles to `C99` (WIP)
+* `[2020]` `Yaksha` - Programming language with Python like syntax that compiles to `C99` (WIP) Written in C++
 * `[2021]` `ray` - Ray tracer built using C++ and LuaJit 
