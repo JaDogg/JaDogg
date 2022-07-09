@@ -25,3 +25,7 @@ I am both a professional Software Engineer (M.Sc.) and a self taught programmer.
 * `[2020]` `sbx` - flash cards in terminal - https://github.com/JaDogg/sbx
 * `[2020]` `Yaksha` - Programming language with Python like syntax that compiles to `C99` (WIP) Written in C++ (https://jadogg.github.io/yaksha.html) - https://github.com/JaDogg/Yaksha
 * `[2021]` `ray` - Ray tracer built using C++ and LuaJIT
+
+---
+
+![stats](https://github-readme-stats.vercel.app/api?username=JaDogg&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues&include_all_commits=true)
