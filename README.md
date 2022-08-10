@@ -23,7 +23,7 @@ I am both a professional Software Engineer (M.Sc.) and a self taught programmer.
 * `[2018]` `confprops`, `propers` - properties file support for python https://github.com/JaDogg/confprops https://github.com/JaDogg/propers
 * `[2019]` `pydoro` - terminal pomodoro timer - https://github.com/JaDogg/pydoro
 * `[2020]` `sbx` - flash cards in terminal - https://github.com/JaDogg/sbx
-* `[2020]` `Yaksha` - Programming language with Python like syntax that compiles to `C99` (WIP) Written in C++ (https://jadogg.github.io/yaksha.html) - https://github.com/JaDogg/Yaksha
+* `[2020]` `Yaksha` - Programming language with Python like syntax that compiles to `C99` (WIP) Written in C++ (https://yakshalang.github.io/) - https://github.com/JaDogg/Yaksha
 * `[2021]` `ray` - Ray tracer built using C++ and LuaJIT
 
 ---
