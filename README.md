@@ -29,3 +29,5 @@ I have worked in the software industry since 2013 December (from startups, mid-s
 ---
 
 ![stats](https://github-readme-stats.vercel.app/api?username=JaDogg&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues&include_all_commits=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JaDogg&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
